@@ -1,5 +1,7 @@
 # ✈️ Airport Technical Dashboard - Power BI Project
 
+🚀 Power BI dashboards developed during an internship at ONDA to improve airport maintenance and stock management.
+
 ## 🔍 Description
 
 Ce projet consiste en la conception et le développement de tableaux de bord interactifs sous Power BI pour améliorer la gestion technique et logistique d’un aéroport.
