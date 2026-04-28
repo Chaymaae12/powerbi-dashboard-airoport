@@ -1,4 +1,4 @@
-<img width="666" height="373" alt="Screenshot 2025-07-27 190645" src="https://github.com/user-attachments/assets/0301a614-6b47-4e6f-82f0-4a74be5b2673" /># ✈️ Airport Technical Dashboard - Power BI Project
+# ✈️ Airport Technical Dashboard - Power BI Project
 
 ## 🔍 Description
 
